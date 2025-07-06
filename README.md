@@ -1,0 +1,2 @@
+# treining
+Repositorio de treinamento
